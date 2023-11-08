@@ -9,7 +9,8 @@ Wireframes can be of different types, such as low-fidelity wireframes, high-fide
 2. Difference between Programming language and Scripting language:
  A programming language is a formal language that is used to create computer programs. It includes a set of instructions that are compiled into machine code and executed by the computer.Programming languages are used to create complex software applications, operating systems, and other computer programs . They are generally faster and more efficient than scripting languages because they are compiled into machine code. Programming languages can be divided into three types: low-level programming languages, middle-level programming languages, and high-level programming languages.
 
-On the other hand, a scripting language is a type of programming language that is interpreted rather than compiled. Scripting languages are used to automate tasks and to create dynamic web applications . They are generally easier to learn than programming languages and require less code to perform the same task. Scripting languages are often used to write scripts that control other programs.
+  On the other hand, a scripting language is a type of programming language that is interpreted rather than compiled. Scripting languages are used to automate tasks and to create dynamic web applications . They 
+ are generally easier to learn than programming languages and require less code to perform the same task. Scripting languages are often used to write scripts that control other programs.
 
 3. ECMA Script and its latest version:
  ECMAScript is a Standard for a scripting languages. Languages like Javascript are based on the ECMAScript standard.  ECMAScript is the scripting language standardized by Ecma International in the ECMA-262 specification. In short, ECMAScript is a language specification. Many languages follow and implement the ECMAScript specification, e.g., JavaScript, ActionScript, Nashorn.
