@@ -1,5 +1,5 @@
 # Assignments-MERN
-MERN Assignments
+MERN Assignment 2 (7th Nov 23)
 
 1. What is Wireframing?
  Wireframing is a crucial part of the product design process. It is a visual representation of the workflow of a website or mobile application. Wireframes are used to establish the structure, layout, and functionality of a page or application. They help in planning the user experience without distractions from color, graphics, or content. Wireframing is a practice most commonly used by UX designers. This process allows all stakeholders to agree on where the information will be placed before the developers build the interface out with code . They also help to identify potential issues and make changes before the development process begins.
