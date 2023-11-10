@@ -1,0 +1,19 @@
+SEO (Search Engine Optimization):  Search Engine Optimization (SEO) is a digital marketing strategy aimed at enhancing a website's visibility on search engines. It involves keyword optimization, quality content creation, and building reputable backlinks. Technical aspects like site speed and mobile-friendliness are crucial. Local SEO targets geographic relevance for businesses. Regular monitoring with tools like Google Analytics is vital, and staying abreast of industry trends ensures ongoing effectiveness. SEO is a dynamic process requiring patience, consistent effort, and adherence to ethical practices.
+
+Differences between framework and API: Function:  Framework provides a structure and tools for building applications.  API defines rules for communication between software components.
+                                       Abstraction: Framework offers a higher-level structure for application development. API operates at a lower level, facilitating component interaction.
+                                       Control: Framework dictates overall application flow and structure. API allows more flexibility in application design and control flow
+                                       Flexibility: Frameworks are less flexible, with set conventions and structures.
+                                                   APIs offer flexibility, letting developers integrate functionality as needed.
+                                       Scope: Frameworks encompass a broad range of tools for application development. APIs focus on specific functionalities or interactions.
+                                       Examples: Framework examples include Django, Ruby on Rails, and Angular. API examples include Twitter API, Google Maps API, and Java API.
+
+ASCII character set VS UTF8 VS UTF16 : 
+  Use Cases:  ASCII is suitable for basic English text. UTF-8 and UTF-16 are more versatile, accommodating a wider range of characters and languages.
+  Size: ASCII uses 7 bits. UTF-8 varies from 8 to 32 bits. UTF-16 uses a fixed 16 bits.
+  Compatibility: UTF-8 is backward compatible with ASCII. UTF-16 is not backward compatible due to fixed 16-bit representation.
+  Encoding: ASCII is single-byte. UTF-8 is variable-length. UTF-16 is fixed-length.
+
+
+
+
