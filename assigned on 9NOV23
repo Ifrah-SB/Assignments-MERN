@@ -1,0 +1,70 @@
+# Assignments-MERN
+MERN Assignments 
+Q1: What is URL?
+URL stands for Uniform Resource Locator. It is a reference or address used to access resources on the internet. In simpler terms, a URL is what you type into the address bar of your web browser to go to a specific website or resource.
+A typical URL consists of several components:
+ Scheme: This indicates the protocol used to access the resource."http," "https," "ftp," etc. 
+ "http" and "https" are the most common, with "https" being a secure, encrypted version of 
+ "http."
+ Domain: This is the human-readable address of the server where the resource is hosted. For 
+ example, In the URL "https://www.example.com," "www.example.com" is the domain.
+ Path: This specifies the location or route to a specific resource on the server. In 
+ "https://www.example.com/page1," "/page1" is the path.
+ Query Parameters: These are additional parameters or information appended to the end of a URL 
+ after a question mark.
+
+Q2: Difference between http and https?
+HTTP (Hypertext Transfer Protocol) and HTTPS (Hypertext Transfer Protocol Secure) are both protocols used for transferring data over a computer network, but they have a key difference in terms of security:
+HTTP (Hypertext Transfer Protocol):
+  Unsecured.
+  Data is not encrypted.
+  Vulnerable to Man-in-the-Middle Attacks
+HTTPS (Hypertext Transfer Protocol Secure):
+  Secured with SSL/TLS: HTTPS is the secure version of HTTP. It uses SSL (Secure Sockets 
+ Layer) or TLS (Transport Layer Security)
+  Data Encryption.
+  Authentication.
+
+Q3: What are Metatags?
+Meta tags are HTML tags that provide information about a web page to browsers and search engines. These tags are placed within the <head> section of an HTML document and are not displayed on the actual web page. Instead, they convey metadata, which includes information about the page's content, character set, keywords, and more.
+
+Q4: What is W3C?
+The World Wide Web Consortium (W3C) is an international community that develops web standards to ensure the long-term growth and accessibility of the World Wide Web.It sets guidelines for technologies like HTML, CSS, and XML, promoting interoperability and a consistent web experience. W3C's work encompasses the creation of specifications, guidelines, and tools to enhance the functionality and universality of the web.
+
+Q5: Different doctypes in html:
+
+HTML doctype declarations indicate the version of HTML being used and help browsers render web pages correctly. Here are three commonly used doctype declarations:
+
+HTML5: <!DOCTYPE html> is Used for modern HTML5 documents, providing the most up-to-date features and compatibility.
+HTML 4.01 Strict: <!DOCTYPE HTML PUBLIC> Specifies HTML 4.01 in strict mode, which enforces a cleaner, more disciplined coding style.
+HTML 4.01 Transitional: <!DOCTYPE HTML PUBLIC> Allows the use of older, presentational HTML features for a smoother transition from legacy code to modern standards.
+
+Q6: What is DOM?
+DOM stands for Document Object Model. It is a programming interface for web documents, which represents the structure of a document as a tree of objects. In simpler terms, when you open a web page in your browser, the browser creates a model of that page in memory, and this model is referred to as the Document Object Model. Some key points are:
+  Tree Structure: The DOM represents the HTML or XML document as a tree structure. Each 
+  element, attribute, and piece of text in the document is represented as a node in the tree.
+
+  Objects: Each node in the tree is an object, and these objects can be manipulated using 
+  programming languages like JavaScript. This allows developers to interact with and 
+  manipulate the content, structure, and style of a web page dynamically.
+
+  Accessibility: The DOM provides a way for scripts (like JavaScript) to access and update the 
+  content, structure, and style of a document. This enables developers to create interactive 
+  and dynamic web pages.
+
+  Event-Driven: The DOM is event-driven, meaning that it can detect and respond to events such 
+  as user actions (e.g., clicks, keyboard input). Developers can write scripts to respond to 
+  these events, creating dynamic and interactive web pages.
+
+  Browser Independence: The DOM provides a standardized way for scripts to interact with web 
+  documents, making it easier for developers to write cross-browser compatible code. This 
+  means that code written to manipulate the DOM will work consistently across different web 
+  browsers.
+
+
+
+
+
+
+
+
